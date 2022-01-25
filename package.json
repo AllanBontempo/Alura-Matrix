@@ -1,0 +1,29 @@
+{
+  "name": "Alura-Matrix",
+  "version": "1.0.0",
+  "description": "Imersão React - 01/2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanBontempo/Alura-Matrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanBontempo/Alura-Matrix/issues"
+  },
+  "homepage": "https://github.com/AllanBontempo/Alura-Matrix#readme",
+  "dependencies": {
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
